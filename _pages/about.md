@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Aowen Fan's Personal Page"
+title: "Aowen Fan's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,9 +11,9 @@ I'm a second year master student from [Chinese Academy of Sciences](http://www.a
 
 I'm now under the supervision of [Foling Zou](https://zzzflll.github.io/) and [Jianzhong Pan](http://www.math.ac.cn/english/people/201602/t20160217_640026.html).
 
-[GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+This homepage is updating, up to now it is merely a bulletin board for some events and some notes.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+
 
 A data-driven personal website
 ======
@@ -58,3 +58,6 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+Something interesting about me
+======
