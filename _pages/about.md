@@ -19,10 +19,10 @@ Events
 ======
 Here are some events I organized or coorganized. The notes can be found through the links.
 
-Upcoming events
+Past events
 ------
 
-- [Winter Seminar for Chromatic Nullstellensatz](https://www.mathjax.org/)
+- [Winter Seminar for Chromatic Nullstellensatz](https://evinaowenfan.github.io/chromaticseminar)
 
   This online seminar was aimed to learn [Burklund-Schlank-Yuan's chromatic nullstellensatz paper](https://arxiv.org/abs/2207.09929), which sets up the stage for understanding the telescope conjecture, redshifts and more. We will 
 - [Motive, motivic cohomology and motivic homotopy theory](https://mermaid.js.org/) for diagraming
