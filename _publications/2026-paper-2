@@ -1,1 +1,10 @@
-
+---
+title: "Infinity operad pairs, higher distributivity and spectral Tambara functors"
+collection: publications
+category: manuscripts
+permalink: /publication/2026-paper-2
+excerpt: 'We introduce an $\infty$-categorical model of operad pairs and their associated bimonoidal categories. We study the related concepts such as cocartesian-cartesian operad pairs, algebra pairs and Day convolutions. Using the Day convolution for operad pairs, we can define distributive functors between a symmetric bimonoidal category and a cartesian monoidal category. As an application, we show that for a finite group $G$, the operadic distributive functors from $\mathrm{Span} (\mathsf{Fin}_G)$ to any cartesian monoidal category coincides with the distributive functors defined by the distributive diagram. Therefore, we show that the connective $G$-equivariant $\E_{\infty}$-ring spectra are equivalently the spectral $G$-Tambara functors.'
+date: 2026-11-6
+venue: 'ArXiv preprint'
+paperurl: 'https://academicpages.github.io/files/2026-paper-2.pdf'
+---
