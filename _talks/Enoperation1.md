@@ -1,5 +1,5 @@
 ---
-title: "$E(n)$-power operations and isogenies"
+title: "$E(n)$-power operations and isogenies I"
 collection: talks
 type: "Talk"
 venue: "MCM homotopy reading seminar"
