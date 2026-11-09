@@ -2,10 +2,10 @@
 title: "The cyclotomic t-structure and topological Cartier modules"
 collection: talks
 type: "Talk"
-permalink: /talks/CycSp.md
+permalink: /talks/CycSp1.md
 venue: "MCM homotopy reading seminar"
-date: 2026-10-27, 2026-11-03
+date: 2026-10-27
 location: "MCM Room110"
 ---
 
-Notes are available [here.](https://evinaowenfan.github.io/files/notes/CycSp.pdf)
+Notes of above two talks are available [here.](https://evinaowenfan.github.io/files/notes/CycSp.pdf)
