@@ -1,5 +1,5 @@
 ---
-title: "Adams differentials for $d_j^3$ II"
+title: "Adams differentials for $$d_j^3$$ II"
 collection: talks
 type: "Talk"
 venue: "Steenrod seminar, Peking University"
