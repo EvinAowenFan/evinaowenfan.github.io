@@ -1,5 +1,5 @@
 ---
-title: "$Spherical Witt vectors and tilting adjunctions"
+title: "Spherical Witt vectors and tilting adjunctions"
 collection: talks
 type: "Talk"
 venue: "Chromatic Winter seminar: Nullstellensatz"
