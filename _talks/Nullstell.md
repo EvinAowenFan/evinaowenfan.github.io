@@ -1,5 +1,5 @@
 ---
-title: "$The chromatic nullstellensatz"
+title: "The chromatic nullstellensatz"
 collection: talks
 type: "Talk"
 venue: "Chromatic winter seminar: Nullstellensatz."
