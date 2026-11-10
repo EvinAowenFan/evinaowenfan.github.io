@@ -1,5 +1,5 @@
 ---
-title: "The $(\infty,2)$-categorical construction of 6-functor formalism II"
+title: "Homotopy limits and colimits"
 collection: talks
 type: "Talk"
 venue: "MCM homotopy reading seminar"
