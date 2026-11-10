@@ -1,5 +1,5 @@
 ---
-title: "On the Kelly monoidal structure of $\Lambda$-sequences"
+title: "On the Kelly monoidal structure of $$\Lambda$$-sequences"
 collection: talks
 type: "Conference presentation"
 venue: "Geometry topology and their related topics"
