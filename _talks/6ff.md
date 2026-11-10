@@ -1,0 +1,8 @@
+---
+title: "The $(\infty, 2)$-categorical construction of 6-functor formalism III"
+collection: talks
+type: "Talk"
+venue: "MCM homotopy reading seminar"
+date: 2025-4-22
+location: "MCM, 512 Room"
+---
