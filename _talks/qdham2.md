@@ -1,5 +1,5 @@
 ---
-title: "The $$q$$-Hodge filtration via solid $$\mathrm{THH}$$ II"
+title: "The $$q$$-Hodge filtration via solid $$\\mathrm{THH}$$ II"
 collection: talks
 type: "Talk"
 venue: "MCM homotopy reading seminar"
