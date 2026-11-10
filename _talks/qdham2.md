@@ -1,8 +1,8 @@
 ---
-title: "The $q$-Hodge filtration via solid $\mathrm{THH}$"
+title: "The $q$-Hodge filtration via solid $\mathrm{THH}$ I"
 collection: talks
 type: "Talk"
 venue: "MCM homotopy reading seminar"
-date: 2026-11-11
+date: 2025-11-11
 location: "MCM, 110 Room"
 ---
