@@ -16,7 +16,7 @@ I'm now under the supervision of [Foling Zou](https://zzzflll.github.io/) and [J
 
 Events
 ======
-Here are some events I organized. The notes can be found through the links.
+Here are some events I organized. The schedules and notes can be found through the links.
 
 Upcoming events
 ------
