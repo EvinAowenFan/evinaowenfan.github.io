@@ -4,6 +4,6 @@ collection: publications
 category: manuscripts
 excerpt: 'We study properties of monoids and modules in $$\Lambda$$-sequences under the Kelly monoidal structure. In particular, we show that the forgetful functor from right modules in $$\Lambda$$-sequences to right modules in symmetric sequences is an isomorphism. We show that any compatible lower data extends to a normal oplax monoidal structure and use this to establish a universal normal oplax monoidal structure on $$\Lambda$$-sequences extending the Kelly product, identifying unital operads to monoids in unital $$\Lambda$$-sequences for a general symmetric monoidal category. We also establish a closed monoidal localization theorem.'
 date: 2026-02-13
-venue: 'ArXiv preprint'
+venue: 'arXiv:2602.12738.'
 paperurl: 'https://evinaowenfan.github.io/files/preprint/2026-paper-1.pdf'
 ---
