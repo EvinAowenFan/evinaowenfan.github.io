@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a third year master student from [Chinese Academy of Sciences](http://www.amss.ac.cn/). My research interest is algebraic topology, with a special emphasis on homotopy theory and its interaction with arithmetic and geometry. Recently I'm thinking of some computational problems about the slice spectral sequence in motivic homotopy theory. 
 
-I'm now under the supervision of [Foling Zou](https://zzzflll.github.io/) and [Jianzhong Pan](http://www.math.ac.cn/english/people/201602/t20160217_640026.html).
+I'm now under the supervision of [Foling Zou](https://zzzflll.github.io/) and [Jianzhong Pan](http://www.math.ac.cn/english/people/201602/t20160217_640026.html). Here is my [CV](https://evinaowenfan.github.io/files/CV2026.pdf)
 
 
 
