@@ -35,4 +35,4 @@ Past events
 Something interesting about me
 ======
 
-The picture on the homepage is surprisingly not myself. It is a porcelain doll called Hinaichigo, which is an animated character from <i>ROZEN MAIDEN</i>. This character carries a spirit of optimism, openmindedness and friendliness. I have devoted to create fun-fictions and manga for more than that. If you have good ideas, want to know more about my works or want to share your own artworks, feel free to mail me (\ˆoˆ/).     
+The picture on the homepage is surprisingly not myself. I'm a Dungeons & Dragons lover and the picture is my original character in a D&D campaign who is a half-elven cleric on behalf of LATHANDER THE MORNINGLOAD. This original character carries a spirit of optimism, inclusiveness and philanthropism. I have devoted to create original stories, fun-fictions and manga for more than that. Therefore, if you have good ideas, want to know more about my works or want to share your own artworks, feel free to mail me (\ˆoˆ/).     
